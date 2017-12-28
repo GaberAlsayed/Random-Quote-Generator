@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+body{
+  background: url('https://www.walldevil.com/wallpapers/a82/wallpaper-texture-light-textured-wallpapers.jpg');
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  font-family:"Times New Roman";
+}
+h1{
+  color:red;
+  font-family:"Pacifico";
+  font-size:50px;
+}
+p{
+  color:white;
+  font-family:"Times New Roman";
+  font-style:italic;
+  font-size:20px;
+}
+img{
+  padding:25px;
+  height:350px;
+  border-radius:129px;
+  border-style:solid;
+  display:block;
+  margin:auto;
+   border: solid transparent;
+    border-width: px 5px 1px 10px;
+   -webkit-border-image: url(https://i.pinimg.com/originals/d5/c9/80/d5c9805735f657c5e17a8ce902eb4843.jpg)  1 5 1 0 / 0 5px 0 20px stretch;
+}
+
+}
+.quotes{
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+  color:white;
+}
+.quotes{
+  font-size:30px;
+}
+.author{
+  font-size:20px;
+  font-size:italic;
+}
