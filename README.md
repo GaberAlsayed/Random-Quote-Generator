@@ -1,2 +1,2 @@
 # Random-Quote-Generator
-Random Quote Generator
+Shout out to CodeTutorial360 for the tutorial, changed some things for taste.
